@@ -1223,7 +1223,7 @@ input, select, textarea {
 /* Sections/Article */
 
 	header {
-		margin-bottom: 1em;
+		margin-bottom: 0em;
 	}
 
 		header p {
@@ -2134,7 +2134,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			.main.style2 .content {
-				width: 50%;
+				width: 42%;
 			}
 
 		}
